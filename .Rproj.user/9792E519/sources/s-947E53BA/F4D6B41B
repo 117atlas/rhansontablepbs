@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575008453123.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "58|37|101|4|\n103|37|146|4|\n148|43|156|4|\n158|33|173|4|\n175|34|183|4|\n185|34|193|4|\n195|39|198|4|\n",
+    "hash" : "1582875417",
+    "id" : "F4D6B41B",
+    "lastKnownWriteTime" : 1575013688,
+    "last_content_update" : 1575013697849,
+    "path" : "D:/CIRAD/Projets/RHSTBug/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "43,39",
+        "scrollLine" : "60"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
