@@ -7,6 +7,12 @@
 #    http://shiny.rstudio.com/
 #
 
+rm(list = ls())
+pkg <- c("shiny", "rhandsontable")
+new.pkg <- pkg[!(pkg %in% installed.packages())]
+if (length(new.pkg)) {
+    install.packages(new.pkg)
+}
 library(shiny)
 library(rhandsontable)
 
